@@ -1,0 +1,12 @@
+celery
+Django
+django-autoslug
+django-phonenumber-field
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+phonenumbers
+pillow
+psycopg2-binary
+python-decouple
+redis
